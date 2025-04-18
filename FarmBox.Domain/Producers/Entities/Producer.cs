@@ -29,7 +29,7 @@ public sealed class Producer : Entity
 
     // public string Password { get; private set; }
 
-    public Address Address { get; private set; }
+    // public Address Address { get; private set; }
 
     #endregion
 

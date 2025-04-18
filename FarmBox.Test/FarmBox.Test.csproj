@@ -26,7 +26,6 @@
 
   <ItemGroup>
     <Folder Include="Producers\Entities\" />
-    <Folder Include="Producers\ValueObjects\" />
   </ItemGroup>
 
 </Project>
